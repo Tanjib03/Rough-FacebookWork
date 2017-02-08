@@ -1,0 +1,267 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+
+	background-color:rgb(59,89,152);
+	height:80px;
+	
+}
+.header img{
+
+background-color:transparent;
+border: hidden;
+height: 70px;
+width: auto;
+margin-left: 160px;
+margin-top: 10px;
+
+}
+
+form {
+display: inline-block;
+float: right;
+margin left: 10px;
+
+}
+.User{
+
+	float: left;
+	margin-top: 1px;
+	padding: 15px;
+	color: white;
+}
+.Password{
+	float: left;
+	margin-right: 255px;
+	padding: 15px;
+	color:white;
+}
+
+
+	label{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.Forgotten {
+
+	color:rgb(156,180,216);
+	margin-top: 10px;
+	position: relative;
+	top:-15px;
+    left: 15px;
+    font-family: inherit;
+}
+.login{
+	position: relative;
+	top:-75px;
+	left: 360px;
+	cursor: pointer;
+	text-decoration-color: rgb(225,255,255);
+
+}
+
+.login button {
+	border: 0.5px solid black;
+	background-color: rgb(54,88,153);
+	color: white;
+	cursor: pointer;
+}
+
+.slider{
+     height: 700px;
+     width: auto;
+	background: rgb(233,235,238);
+margin-top: -31px ;
+padding: 0;
+}
+.tagline img{
+
+	margin:0 px;
+	position: relative;
+	right: -128px;
+	bottom: -50px;
+}
+.tagline p{
+	color: rgb(14,56,95);
+	position: relative;
+	right: -166px;
+	bottom: -46px;
+	font-family: Arial,Helvetica, sans-serif;
+	position: relative;
+	font-size: 31px;
+}
+.signup h1{
+
+     position: relative;
+     font-family:Arial,Helvetica,sans-serif;
+     right: -880px;
+     top:-300px;
+	color: rgb(51,51,51);
+}
+.signup p{
+
+position: relative;
+font-family: Arial,Helvetica,sans-serif;
+right: -885px;
+top:-314px;
+color: rgb(51,51,51);
+
+}
+.fn{
+	position: relative;
+	right: -884px;
+	top:-311px;
+	width: 180px;
+	height: 5 px;
+	font-size: 18px;
+	
+	padding: 8px 10px;
+
+	
+	
+}
+
+.sn{
+	position: relative;
+	right: -894px;
+	top:-311px;
+	width: 180px;
+	height: 5 px;
+	font-size: 18px;
+	
+	padding: 8px 10px;
+
+	
+	
+}
+.me{
+
+
+position: relative;
+	right: -474px;
+	top:-264px;
+	width: 395px;
+	height: 35 px;
+	font-size: 18px;
+	
+	padding: 8px 10px;
+
+
+
+}
+.re{
+position: relative;
+	right: -51px;
+	top:-213px;
+	width: 395px;
+	height: 35 px;
+	font-size: 18px;
+	
+	padding: 8px 10px;
+
+
+}
+
+.pw{
+position: relative;
+right: -889px;
+top: -198px;
+width: 395px;
+height: 35 px;
+font-size: 18px;
+padding: 8px 10px;
+}
+
+h2{
+	color: (29,33,41);
+	font-family: Arial,Helvetica,sans-serif;
+	position: relative;
+	right: -888px;
+	top:-194px;
+}
+
+.Day{
+
+position: relative;
+	right: -887px;
+	top:-209px;
+	width: 65px;
+
+}
+.Month{
+
+	position: relative;
+	right: -887px;
+	top:-209px;
+	width: 65px;
+
+}
+.Year {
+
+	position: relative;
+	right: -887px;
+	top:-209px;
+	width: 65px;
+
+}
+.lb1{
+	position: relative;
+right: -672px;
+top: -173px;
+font-size:larger;
+}
+
+.lb2{
+	position: relative;
+right: -682px;
+top: -173px;
+font-size:larger;
+}
+.why{
+
+	position: relative;
+right: -218px;
+top: 71px;
+width: 141px;
+font-size: small;
+
+
+}
+.agreement{
+
+	position: relative;
+right: 0px;
+top: 105px;
+width: 340px;
+font-size: small;
+}
+
+.create {
+    position: relative;
+    right: -886px;
+    top: -201px;
+    width: 220px;
+    border: .5px solid #2C5115;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Arial,Verdana,sans-serif;
+    padding-bottom: 5px;
+    margin-top: 0;
+    cursor: pointer;
+    height: 46px;
+    background-color: rgb(92,144,72);
+}
+.page{
+
+    background-color: white;
+    position: relative;
+    top: 124px;
+}
+
+}
